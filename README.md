@@ -6,6 +6,7 @@ Geek For Geeks Solutions
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/thisarsh/GFG_Soln/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/thisarsh/GFG_Soln/tree/master/0189-rotate-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Math
@@ -15,6 +16,7 @@ Geek For Geeks Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/thisarsh/GFG_Soln/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/thisarsh/GFG_Soln/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -28,4 +30,8 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisarsh/GFG_Soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/thisarsh/GFG_Soln/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
