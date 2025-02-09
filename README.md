@@ -7,6 +7,7 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/thisarsh/GFG_Soln/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/thisarsh/GFG_Soln/tree/master/0189-rotate-array) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -43,4 +44,8 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/thisarsh/GFG_Soln/tree/master/0647-palindromic-substrings) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
