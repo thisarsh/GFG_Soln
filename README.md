@@ -6,6 +6,7 @@ Geek For Geeks Solutions
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/thisarsh/GFG_Soln/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/thisarsh/GFG_Soln/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -56,6 +57,7 @@ Geek For Geeks Solutions
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/thisarsh/GFG_Soln/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Bit Manipulation
 |  |
