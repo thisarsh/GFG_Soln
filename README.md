@@ -11,6 +11,7 @@ Geek For Geeks Solutions
 | [0152-maximum-product-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/thisarsh/GFG_Soln/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/thisarsh/GFG_Soln/tree/master/0217-contains-duplicate) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
 | [1635-number-of-good-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1635-number-of-good-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -28,6 +29,7 @@ Geek For Geeks Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/thisarsh/GFG_Soln/tree/master/0217-contains-duplicate) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
 | [1635-number-of-good-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisarsh/GFG_Soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -49,6 +51,7 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/thisarsh/GFG_Soln/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/thisarsh/GFG_Soln/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
