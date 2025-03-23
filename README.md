@@ -8,6 +8,7 @@ Geek For Geeks Solutions
 | ------- |
 | [0035-search-insert-position](https://github.com/thisarsh/GFG_Soln/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/thisarsh/GFG_Soln/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/thisarsh/GFG_Soln/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/thisarsh/GFG_Soln/tree/master/0189-rotate-array) |
@@ -29,6 +30,7 @@ Geek For Geeks Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/thisarsh/GFG_Soln/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/thisarsh/GFG_Soln/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thisarsh/GFG_Soln/tree/master/0242-valid-anagram) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
@@ -69,4 +71,8 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/thisarsh/GFG_Soln/tree/master/2427-first-letter-to-appear-twice) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/thisarsh/GFG_Soln/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
