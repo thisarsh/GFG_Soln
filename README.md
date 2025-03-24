@@ -7,6 +7,7 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/thisarsh/GFG_Soln/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/thisarsh/GFG_Soln/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/thisarsh/GFG_Soln/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/thisarsh/GFG_Soln/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0152-maximum-product-subarray) |
@@ -30,6 +31,7 @@ Geek For Geeks Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/thisarsh/GFG_Soln/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/thisarsh/GFG_Soln/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/thisarsh/GFG_Soln/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thisarsh/GFG_Soln/tree/master/0242-valid-anagram) |
