@@ -26,6 +26,7 @@ Geek For Geeks Solutions
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thisarsh/GFG_Soln/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1635-number-of-good-pairs) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Math
 |  |
@@ -45,6 +46,7 @@ Geek For Geeks Solutions
 | [0189-rotate-array](https://github.com/thisarsh/GFG_Soln/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/thisarsh/GFG_Soln/tree/master/0647-palindromic-substrings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/thisarsh/GFG_Soln/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -56,6 +58,7 @@ Geek For Geeks Solutions
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
 | [1635-number-of-good-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1635-number-of-good-pairs) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisarsh/GFG_Soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisarsh/GFG_Soln/tree/master/2427-first-letter-to-appear-twice) |
 ## String
@@ -83,6 +86,7 @@ Geek For Geeks Solutions
 | [0217-contains-duplicate](https://github.com/thisarsh/GFG_Soln/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thisarsh/GFG_Soln/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
