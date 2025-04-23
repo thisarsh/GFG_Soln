@@ -23,6 +23,7 @@ Geek For Geeks Solutions
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/thisarsh/GFG_Soln/tree/master/0485-max-consecutive-ones) |
+| [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thisarsh/GFG_Soln/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1635-number-of-good-pairs) |
@@ -108,6 +109,7 @@ Geek For Geeks Solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thisarsh/GFG_Soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
+| [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/thisarsh/GFG_Soln/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 ## Greedy
 |  |
 | ------- |
@@ -134,4 +137,8 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/thisarsh/GFG_Soln/tree/master/1656-count-good-triplets) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
