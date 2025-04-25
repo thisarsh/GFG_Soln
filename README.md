@@ -18,6 +18,7 @@ Geek For Geeks Solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thisarsh/GFG_Soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/thisarsh/GFG_Soln/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/thisarsh/GFG_Soln/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/thisarsh/GFG_Soln/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
@@ -110,6 +111,7 @@ Geek For Geeks Solutions
 | [0035-search-insert-position](https://github.com/thisarsh/GFG_Soln/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thisarsh/GFG_Soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 ## Bit Manipulation
@@ -125,6 +127,7 @@ Geek For Geeks Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/thisarsh/GFG_Soln/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 ## Greedy
@@ -143,5 +146,6 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thisarsh/GFG_Soln/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
