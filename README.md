@@ -56,6 +56,7 @@ Geek For Geeks Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thisarsh/GFG_Soln/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/thisarsh/GFG_Soln/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/thisarsh/GFG_Soln/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/thisarsh/GFG_Soln/tree/master/0217-contains-duplicate) |
@@ -70,6 +71,7 @@ Geek For Geeks Solutions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thisarsh/GFG_Soln/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/thisarsh/GFG_Soln/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/thisarsh/GFG_Soln/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0151-reverse-words-in-a-string) |
@@ -140,5 +142,6 @@ Geek For Geeks Solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thisarsh/GFG_Soln/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
