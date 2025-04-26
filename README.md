@@ -23,6 +23,7 @@ Geek For Geeks Solutions
 | [0238-product-of-array-except-self](https://github.com/thisarsh/GFG_Soln/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0283-move-zeroes) |
+| [0413-arithmetic-slices](https://github.com/thisarsh/GFG_Soln/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/thisarsh/GFG_Soln/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
@@ -106,6 +107,7 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0152-maximum-product-subarray) |
+| [0413-arithmetic-slices](https://github.com/thisarsh/GFG_Soln/tree/master/0413-arithmetic-slices) |
 | [0647-palindromic-substrings](https://github.com/thisarsh/GFG_Soln/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
@@ -151,6 +153,7 @@ Geek For Geeks Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/thisarsh/GFG_Soln/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/thisarsh/GFG_Soln/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0209-minimum-size-subarray-sum) |
+| [0413-arithmetic-slices](https://github.com/thisarsh/GFG_Soln/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 ## Rolling Hash
 |  |
