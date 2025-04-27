@@ -43,6 +43,7 @@ Geek For Geeks Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/thisarsh/GFG_Soln/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/thisarsh/GFG_Soln/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/thisarsh/GFG_Soln/tree/master/0075-sort-colors) |
@@ -76,6 +77,7 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thisarsh/GFG_Soln/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/thisarsh/GFG_Soln/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/thisarsh/GFG_Soln/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/thisarsh/GFG_Soln/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0151-reverse-words-in-a-string) |
@@ -107,6 +109,7 @@ Geek For Geeks Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/thisarsh/GFG_Soln/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0152-maximum-product-subarray) |
 | [0413-arithmetic-slices](https://github.com/thisarsh/GFG_Soln/tree/master/0413-arithmetic-slices) |
 | [0647-palindromic-substrings](https://github.com/thisarsh/GFG_Soln/tree/master/0647-palindromic-substrings) |
