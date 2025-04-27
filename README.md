@@ -33,6 +33,7 @@ Geek For Geeks Solutions
 | [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisarsh/GFG_Soln/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/thisarsh/GFG_Soln/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Math
 |  |
 | ------- |
