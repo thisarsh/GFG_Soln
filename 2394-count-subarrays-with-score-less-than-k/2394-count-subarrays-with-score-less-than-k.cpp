@@ -6,7 +6,6 @@ public:
         for(int i=0; i<n; i++){
             window_length=i-l+1;
             tsum+=nums[i];
-           
             while((tsum * window_length )>=k ) {
 
               tsum-=nums[l];
@@ -17,8 +16,7 @@ public:
             }
             if(tsum<k){
                 count+=window_length;
-                
-                
+     
             }
            
         }
