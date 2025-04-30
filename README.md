@@ -27,6 +27,7 @@ Geek For Geeks Solutions
 | [0485-max-consecutive-ones](https://github.com/thisarsh/GFG_Soln/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/thisarsh/GFG_Soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thisarsh/GFG_Soln/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/thisarsh/GFG_Soln/tree/master/1656-count-good-triplets) |
@@ -41,6 +42,7 @@ Geek For Geeks Solutions
 | ------- |
 | [0189-rotate-array](https://github.com/thisarsh/GFG_Soln/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/thisarsh/GFG_Soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
