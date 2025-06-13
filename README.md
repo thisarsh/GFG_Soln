@@ -132,6 +132,7 @@ Geek For Geeks Solutions
 | ------- |
 | [0136-single-number](https://github.com/thisarsh/GFG_Soln/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/thisarsh/GFG_Soln/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/thisarsh/GFG_Soln/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisarsh/GFG_Soln/tree/master/2427-first-letter-to-appear-twice) |
 ## Union Find
@@ -175,4 +176,8 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/thisarsh/GFG_Soln/tree/master/0187-repeated-dna-sequences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/thisarsh/GFG_Soln/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
