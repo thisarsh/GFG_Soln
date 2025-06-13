@@ -41,6 +41,7 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/thisarsh/GFG_Soln/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/thisarsh/GFG_Soln/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/thisarsh/GFG_Soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1635-number-of-good-pairs) |
@@ -56,6 +57,7 @@ Geek For Geeks Solutions
 | [0151-reverse-words-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thisarsh/GFG_Soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/thisarsh/GFG_Soln/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/thisarsh/GFG_Soln/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/thisarsh/GFG_Soln/tree/master/0647-palindromic-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -68,6 +70,7 @@ Geek For Geeks Solutions
 | [0041-first-missing-positive](https://github.com/thisarsh/GFG_Soln/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/thisarsh/GFG_Soln/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/thisarsh/GFG_Soln/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/thisarsh/GFG_Soln/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/thisarsh/GFG_Soln/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thisarsh/GFG_Soln/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
