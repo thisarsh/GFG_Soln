@@ -54,6 +54,7 @@ Geek For Geeks Solutions
 | [0005-longest-palindromic-substring](https://github.com/thisarsh/GFG_Soln/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/thisarsh/GFG_Soln/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/thisarsh/GFG_Soln/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/thisarsh/GFG_Soln/tree/master/0125-valid-palindrome) |
@@ -88,6 +89,7 @@ Geek For Geeks Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thisarsh/GFG_Soln/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/thisarsh/GFG_Soln/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/thisarsh/GFG_Soln/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/thisarsh/GFG_Soln/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0151-reverse-words-in-a-string) |
@@ -187,4 +189,8 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/thisarsh/GFG_Soln/tree/master/0191-number-of-1-bits) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
