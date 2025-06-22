@@ -6,6 +6,7 @@ Geek For Geeks Solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/thisarsh/GFG_Soln/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/thisarsh/GFG_Soln/tree/master/0035-search-insert-position) |
@@ -72,6 +73,7 @@ Geek For Geeks Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thisarsh/GFG_Soln/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/thisarsh/GFG_Soln/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/thisarsh/GFG_Soln/tree/master/0128-longest-consecutive-sequence) |
