@@ -43,6 +43,7 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/thisarsh/GFG_Soln/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/thisarsh/GFG_Soln/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/thisarsh/GFG_Soln/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/thisarsh/GFG_Soln/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
@@ -92,6 +93,7 @@ Geek For Geeks Solutions
 | [0005-longest-palindromic-substring](https://github.com/thisarsh/GFG_Soln/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/thisarsh/GFG_Soln/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/thisarsh/GFG_Soln/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/thisarsh/GFG_Soln/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/thisarsh/GFG_Soln/tree/master/0187-repeated-dna-sequences) |
@@ -142,6 +144,7 @@ Geek For Geeks Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thisarsh/GFG_Soln/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/thisarsh/GFG_Soln/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/thisarsh/GFG_Soln/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/thisarsh/GFG_Soln/tree/master/0191-number-of-1-bits) |
@@ -199,5 +202,6 @@ Geek For Geeks Solutions
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thisarsh/GFG_Soln/tree/master/0067-add-binary) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/thisarsh/GFG_Soln/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
