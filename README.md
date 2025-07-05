@@ -108,6 +108,7 @@ Geek For Geeks Solutions
 | [0383-ransom-note](https://github.com/thisarsh/GFG_Soln/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/thisarsh/GFG_Soln/tree/master/0647-palindromic-substrings) |
+| [1205-defanging-an-ip-address](https://github.com/thisarsh/GFG_Soln/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/thisarsh/GFG_Soln/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisarsh/GFG_Soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisarsh/GFG_Soln/tree/master/2231-find-first-palindromic-string-in-the-array) |
