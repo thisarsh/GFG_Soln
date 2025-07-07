@@ -38,6 +38,7 @@ Geek For Geeks Solutions
 | [1656-count-good-triplets](https://github.com/thisarsh/GFG_Soln/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/thisarsh/GFG_Soln/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisarsh/GFG_Soln/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/thisarsh/GFG_Soln/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -72,6 +73,7 @@ Geek For Geeks Solutions
 | [0647-palindromic-substrings](https://github.com/thisarsh/GFG_Soln/tree/master/0647-palindromic-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/thisarsh/GFG_Soln/tree/master/1894-merge-strings-alternately) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/thisarsh/GFG_Soln/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisarsh/GFG_Soln/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
@@ -116,6 +118,7 @@ Geek For Geeks Solutions
 | [1205-defanging-an-ip-address](https://github.com/thisarsh/GFG_Soln/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/thisarsh/GFG_Soln/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisarsh/GFG_Soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/thisarsh/GFG_Soln/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisarsh/GFG_Soln/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/thisarsh/GFG_Soln/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisarsh/GFG_Soln/tree/master/2427-first-letter-to-appear-twice) |
