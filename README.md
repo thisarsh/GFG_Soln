@@ -110,6 +110,7 @@ Geek For Geeks Solutions
 | [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisarsh/GFG_Soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisarsh/GFG_Soln/tree/master/2427-first-letter-to-appear-twice) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/thisarsh/GFG_Soln/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Geek For Geeks Solutions
 | [2427-first-letter-to-appear-twice](https://github.com/thisarsh/GFG_Soln/tree/master/2427-first-letter-to-appear-twice) |
 | [2887-sort-vowels-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/thisarsh/GFG_Soln/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Geek For Geeks Solutions
 | [1635-number-of-good-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisarsh/GFG_Soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisarsh/GFG_Soln/tree/master/2427-first-letter-to-appear-twice) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/thisarsh/GFG_Soln/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
