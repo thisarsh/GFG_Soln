@@ -12,6 +12,7 @@ Geek For Geeks Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/thisarsh/GFG_Soln/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/thisarsh/GFG_Soln/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/thisarsh/GFG_Soln/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/thisarsh/GFG_Soln/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -169,6 +170,7 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thisarsh/GFG_Soln/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0152-maximum-product-subarray) |
 | [0413-arithmetic-slices](https://github.com/thisarsh/GFG_Soln/tree/master/0413-arithmetic-slices) |
 | [0647-palindromic-substrings](https://github.com/thisarsh/GFG_Soln/tree/master/0647-palindromic-substrings) |
@@ -238,6 +240,7 @@ Geek For Geeks Solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/thisarsh/GFG_Soln/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/thisarsh/GFG_Soln/tree/master/0347-top-k-frequent-elements) |
 ## String Matching
