@@ -107,6 +107,7 @@ Geek For Geeks Solutions
 | [0383-ransom-note](https://github.com/thisarsh/GFG_Soln/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/thisarsh/GFG_Soln/tree/master/0782-jewels-and-stones) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/thisarsh/GFG_Soln/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thisarsh/GFG_Soln/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -134,6 +135,7 @@ Geek For Geeks Solutions
 | [0647-palindromic-substrings](https://github.com/thisarsh/GFG_Soln/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/thisarsh/GFG_Soln/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/thisarsh/GFG_Soln/tree/master/1205-defanging-an-ip-address) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/thisarsh/GFG_Soln/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thisarsh/GFG_Soln/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/thisarsh/GFG_Soln/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisarsh/GFG_Soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
