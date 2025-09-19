@@ -1,35 +1,30 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        int n=nums.size(),i=0,j=1,k;
-        k=n-1;
-      sort(nums.begin(),nums.end());
-      vector <  vector < int>> answer;
-      for(int i=0; i<n; i++){
-        int sum;
-        j=i+1;k=n-1;
-        while(j<k && k<n){
-           sum= nums[i]+nums[j]+nums[k];
-                if(sum==0){
-                    answer.push_back({nums[i],nums[j],nums[k]});
-                    j++;
-                    k--;
-                }
-                else if(sum>0){
-                    k--;
-                }
-                else {
-                    j++;
-                }
-        }
-
+        int n = nums.size(), tsum = 0, l = 1, r, ans = 0;
+        r = n - 1;
+        vector<vector <int> >answer;
+        sort(nums.begin(),nums.end());
         
+        for (int i = 0; i < n; i++) {
+            l=i+1;
+            r=n-1;
 
+            while (l < r && r < n) {
+
+                tsum = nums[i] + nums[l] + nums[r];
+                if (tsum > 0) {
+                    r--;
+                } else if (tsum < 0) {
+                    l++;
+                } else {
+                    answer.push_back({nums[i], nums[l], nums[r]});
+                    l++;
+                }
+            }
         }
-        // set <int>;
-        set <vector <int>> ans(answer.begin(),answer.end());
-        vector <vector <int>> answer1 (ans.begin(),ans.end());
-return answer1;
-      }
-      
+        set<vector <int>> st(answer.begin(),answer.end());
+        answer.assign(st.begin(),st.end());
+        return answer;
+    }
 };
