@@ -51,6 +51,7 @@ Geek For Geeks Solutions
 | [2350-find-closest-number-to-zero](https://github.com/thisarsh/GFG_Soln/tree/master/2350-find-closest-number-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/thisarsh/GFG_Soln/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/thisarsh/GFG_Soln/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/thisarsh/GFG_Soln/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/thisarsh/GFG_Soln/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Math
@@ -118,6 +119,7 @@ Geek For Geeks Solutions
 | [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisarsh/GFG_Soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisarsh/GFG_Soln/tree/master/2427-first-letter-to-appear-twice) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/thisarsh/GFG_Soln/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thisarsh/GFG_Soln/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -162,6 +164,7 @@ Geek For Geeks Solutions
 | [1635-number-of-good-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisarsh/GFG_Soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisarsh/GFG_Soln/tree/master/2427-first-letter-to-appear-twice) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/thisarsh/GFG_Soln/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thisarsh/GFG_Soln/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
