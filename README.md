@@ -59,6 +59,7 @@ Geek For Geeks Solutions
 | ------- |
 | [0066-plus-one](https://github.com/thisarsh/GFG_Soln/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thisarsh/GFG_Soln/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/thisarsh/GFG_Soln/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/thisarsh/GFG_Soln/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
