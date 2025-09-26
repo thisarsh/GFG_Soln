@@ -36,6 +36,7 @@ Geek For Geeks Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/thisarsh/GFG_Soln/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/thisarsh/GFG_Soln/tree/master/0485-max-consecutive-ones) |
+| [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/thisarsh/GFG_Soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -92,6 +93,7 @@ Geek For Geeks Solutions
 | [0283-move-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/thisarsh/GFG_Soln/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/thisarsh/GFG_Soln/tree/master/0647-palindromic-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/thisarsh/GFG_Soln/tree/master/1894-merge-strings-alternately) |
@@ -184,6 +186,7 @@ Geek For Geeks Solutions
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/thisarsh/GFG_Soln/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
@@ -205,6 +208,7 @@ Geek For Geeks Solutions
 | [0209-minimum-size-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Bit Manipulation
@@ -231,6 +235,7 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thisarsh/GFG_Soln/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
 | [2032-largest-odd-number-in-string](https://github.com/thisarsh/GFG_Soln/tree/master/2032-largest-odd-number-in-string) |
 ## Queue
 |  |
