@@ -14,6 +14,7 @@ Geek For Geeks Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/thisarsh/GFG_Soln/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/thisarsh/GFG_Soln/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/thisarsh/GFG_Soln/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/thisarsh/GFG_Soln/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0073-set-matrix-zeroes) |
@@ -60,6 +61,7 @@ Geek For Geeks Solutions
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/thisarsh/GFG_Soln/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/thisarsh/GFG_Soln/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thisarsh/GFG_Soln/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0172-factorial-trailing-zeroes) |
@@ -310,5 +312,6 @@ Geek For Geeks Solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/thisarsh/GFG_Soln/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
