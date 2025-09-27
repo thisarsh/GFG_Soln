@@ -16,6 +16,7 @@ Geek For Geeks Solutions
 | [0041-first-missing-positive](https://github.com/thisarsh/GFG_Soln/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/thisarsh/GFG_Soln/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/thisarsh/GFG_Soln/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0088-merge-sorted-array) |
@@ -106,6 +107,7 @@ Geek For Geeks Solutions
 | [0001-two-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thisarsh/GFG_Soln/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/thisarsh/GFG_Soln/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/thisarsh/GFG_Soln/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/thisarsh/GFG_Soln/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/thisarsh/GFG_Soln/tree/master/0202-happy-number) |
@@ -305,4 +307,8 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/3462-vowels-game-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
