@@ -61,6 +61,7 @@ Geek For Geeks Solutions
 | [2350-find-closest-number-to-zero](https://github.com/thisarsh/GFG_Soln/tree/master/2350-find-closest-number-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/thisarsh/GFG_Soln/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thisarsh/GFG_Soln/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/thisarsh/GFG_Soln/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/thisarsh/GFG_Soln/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -81,6 +82,7 @@ Geek For Geeks Solutions
 | [1642-water-bottles](https://github.com/thisarsh/GFG_Soln/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/thisarsh/GFG_Soln/tree/master/2032-largest-odd-number-in-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
 | [3462-vowels-game-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/3462-vowels-game-in-a-string) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/thisarsh/GFG_Soln/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -141,6 +143,7 @@ Geek For Geeks Solutions
 | [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisarsh/GFG_Soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisarsh/GFG_Soln/tree/master/2427-first-letter-to-appear-twice) |
+| [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thisarsh/GFG_Soln/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thisarsh/GFG_Soln/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -337,6 +340,7 @@ Geek For Geeks Solutions
 | ------- |
 | [0048-rotate-image](https://github.com/thisarsh/GFG_Soln/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
 ## Combinatorics
 |  |
 | ------- |
