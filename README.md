@@ -83,6 +83,7 @@ Geek For Geeks Solutions
 | [2032-largest-odd-number-in-string](https://github.com/thisarsh/GFG_Soln/tree/master/2032-largest-odd-number-in-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
+| [3336-water-bottles-ii](https://github.com/thisarsh/GFG_Soln/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/3462-vowels-game-in-a-string) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/thisarsh/GFG_Soln/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -311,6 +312,7 @@ Geek For Geeks Solutions
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/thisarsh/GFG_Soln/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/thisarsh/GFG_Soln/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/thisarsh/GFG_Soln/tree/master/3336-water-bottles-ii) |
 ## Trie
 |  |
 | ------- |
