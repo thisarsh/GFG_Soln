@@ -41,6 +41,7 @@ Geek For Geeks Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/thisarsh/GFG_Soln/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/thisarsh/GFG_Soln/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/thisarsh/GFG_Soln/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thisarsh/GFG_Soln/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
@@ -134,6 +135,7 @@ Geek For Geeks Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/thisarsh/GFG_Soln/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0387-first-unique-character-in-a-string) |
+| [0525-contiguous-array](https://github.com/thisarsh/GFG_Soln/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thisarsh/GFG_Soln/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/thisarsh/GFG_Soln/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/thisarsh/GFG_Soln/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -255,6 +257,7 @@ Geek For Geeks Solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/thisarsh/GFG_Soln/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/thisarsh/GFG_Soln/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thisarsh/GFG_Soln/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
