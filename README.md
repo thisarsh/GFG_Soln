@@ -359,4 +359,8 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/2324-find-triangular-sum-of-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
