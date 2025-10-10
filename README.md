@@ -72,6 +72,7 @@ Geek For Geeks Solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thisarsh/GFG_Soln/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/thisarsh/GFG_Soln/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/thisarsh/GFG_Soln/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thisarsh/GFG_Soln/tree/master/0067-add-binary) |
@@ -362,5 +363,10 @@ Geek For Geeks Solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thisarsh/GFG_Soln/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/thisarsh/GFG_Soln/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
