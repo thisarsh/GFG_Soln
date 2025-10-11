@@ -48,6 +48,7 @@ Geek For Geeks Solutions
 | [0560-subarray-sum-equals-k](https://github.com/thisarsh/GFG_Soln/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
+| [0792-binary-search](https://github.com/thisarsh/GFG_Soln/tree/master/0792-binary-search) |
 | [1018-largest-perimeter-triangle](https://github.com/thisarsh/GFG_Soln/tree/master/1018-largest-perimeter-triangle) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/thisarsh/GFG_Soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -247,6 +248,7 @@ Geek For Geeks Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
+| [0792-binary-search](https://github.com/thisarsh/GFG_Soln/tree/master/0792-binary-search) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Bit Manipulation
 |  |
