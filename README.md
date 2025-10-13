@@ -51,6 +51,7 @@ Geek For Geeks Solutions
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/thisarsh/GFG_Soln/tree/master/0792-binary-search) |
 | [1018-largest-perimeter-triangle](https://github.com/thisarsh/GFG_Soln/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/thisarsh/GFG_Soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thisarsh/GFG_Soln/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -147,6 +148,7 @@ Geek For Geeks Solutions
 | [0560-subarray-sum-equals-k](https://github.com/thisarsh/GFG_Soln/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/thisarsh/GFG_Soln/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/thisarsh/GFG_Soln/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thisarsh/GFG_Soln/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -180,6 +182,7 @@ Geek For Geeks Solutions
 | [0812-rotate-string](https://github.com/thisarsh/GFG_Soln/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/thisarsh/GFG_Soln/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/thisarsh/GFG_Soln/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thisarsh/GFG_Soln/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/thisarsh/GFG_Soln/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisarsh/GFG_Soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -224,6 +227,7 @@ Geek For Geeks Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/thisarsh/GFG_Soln/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
