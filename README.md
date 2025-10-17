@@ -58,6 +58,7 @@ Geek For Geeks Solutions
 | [1510-find-lucky-integer-in-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thisarsh/GFG_Soln/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/thisarsh/GFG_Soln/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/thisarsh/GFG_Soln/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -257,6 +258,7 @@ Geek For Geeks Solutions
 | [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/thisarsh/GFG_Soln/tree/master/0792-binary-search) |
+| [1646-kth-missing-positive-number](https://github.com/thisarsh/GFG_Soln/tree/master/1646-kth-missing-positive-number) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/thisarsh/GFG_Soln/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Bit Manipulation
