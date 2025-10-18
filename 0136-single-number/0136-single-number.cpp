@@ -1,27 +1,10 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int xorr=0;
-    for(auto it: nums){
-        xorr^=it;
-    }
-    return xorr;
-
-
-
-
-
-//     //hashing by maps
-//     int n=nums.size();
-//     unordered_map <int,int> mpp;
-//     for (auto it:nums){
-//         mpp[it]++;
-//     }    
-//     for(auto it:mpp){
-//         if (it.second!=2){
-//             return it.first;
-//         }
-//     }  
-// return 0;
+        int k=0;
+        for(auto it:nums){
+            k^=it;
+        }
+        return k;
     }
 };
