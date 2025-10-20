@@ -66,6 +66,7 @@ Geek For Geeks Solutions
 | [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/thisarsh/GFG_Soln/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/thisarsh/GFG_Soln/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisarsh/GFG_Soln/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/thisarsh/GFG_Soln/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -195,6 +196,7 @@ Geek For Geeks Solutions
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/thisarsh/GFG_Soln/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/thisarsh/GFG_Soln/tree/master/2032-largest-odd-number-in-string) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/thisarsh/GFG_Soln/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/thisarsh/GFG_Soln/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisarsh/GFG_Soln/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/thisarsh/GFG_Soln/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisarsh/GFG_Soln/tree/master/2427-first-letter-to-appear-twice) |
@@ -343,6 +345,7 @@ Geek For Geeks Solutions
 | ------- |
 | [0067-add-binary](https://github.com/thisarsh/GFG_Soln/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/thisarsh/GFG_Soln/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/thisarsh/GFG_Soln/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/thisarsh/GFG_Soln/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/thisarsh/GFG_Soln/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/2324-find-triangular-sum-of-an-array) |
