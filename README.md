@@ -189,6 +189,7 @@ Geek For Geeks Solutions
 | [0647-palindromic-substrings](https://github.com/thisarsh/GFG_Soln/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/thisarsh/GFG_Soln/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/thisarsh/GFG_Soln/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/thisarsh/GFG_Soln/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/thisarsh/GFG_Soln/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/thisarsh/GFG_Soln/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -395,4 +396,8 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thisarsh/GFG_Soln/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/thisarsh/GFG_Soln/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
