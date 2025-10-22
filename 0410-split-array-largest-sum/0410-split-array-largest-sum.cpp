@@ -2,7 +2,7 @@ class Solution {
 public:
     int splitArray(vector<int>& nums, int k) {
         int n=nums.size();
-        int low=*min_element(nums.begin(),nums.end());
+        int low=*max_element(nums.begin(),nums.end());
         int high=0;
         for(int it:nums){
             high+=it;
