@@ -78,6 +78,7 @@ Geek For Geeks Solutions
 | [2324-find-triangular-sum-of-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/thisarsh/GFG_Soln/tree/master/2350-find-closest-number-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2737-row-with-maximum-ones](https://github.com/thisarsh/GFG_Soln/tree/master/2737-row-with-maximum-ones) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/thisarsh/GFG_Soln/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thisarsh/GFG_Soln/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -400,6 +401,7 @@ Geek For Geeks Solutions
 | ------- |
 | [0048-rotate-image](https://github.com/thisarsh/GFG_Soln/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0073-set-matrix-zeroes) |
+| [2737-row-with-maximum-ones](https://github.com/thisarsh/GFG_Soln/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
 ## Combinatorics
 |  |
