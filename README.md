@@ -111,6 +111,7 @@ Geek For Geeks Solutions
 | [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/thisarsh/GFG_Soln/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/thisarsh/GFG_Soln/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/thisarsh/GFG_Soln/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
@@ -303,6 +304,7 @@ Geek For Geeks Solutions
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/thisarsh/GFG_Soln/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisarsh/GFG_Soln/tree/master/2427-first-letter-to-appear-twice) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/thisarsh/GFG_Soln/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Union Find
 |  |
 | ------- |
