@@ -87,6 +87,7 @@ Geek For Geeks Solutions
 | [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thisarsh/GFG_Soln/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/thisarsh/GFG_Soln/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thisarsh/GFG_Soln/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/thisarsh/GFG_Soln/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/thisarsh/GFG_Soln/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/thisarsh/GFG_Soln/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -113,6 +114,7 @@ Geek For Geeks Solutions
 | [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/thisarsh/GFG_Soln/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thisarsh/GFG_Soln/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/thisarsh/GFG_Soln/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/thisarsh/GFG_Soln/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -185,6 +187,7 @@ Geek For Geeks Solutions
 | [2427-first-letter-to-appear-twice](https://github.com/thisarsh/GFG_Soln/tree/master/2427-first-letter-to-appear-twice) |
 | [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thisarsh/GFG_Soln/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thisarsh/GFG_Soln/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thisarsh/GFG_Soln/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
