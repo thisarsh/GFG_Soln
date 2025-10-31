@@ -41,6 +41,7 @@ Geek For Geeks Solutions
 | [0189-rotate-array](https://github.com/thisarsh/GFG_Soln/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/thisarsh/GFG_Soln/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/thisarsh/GFG_Soln/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0240-search-a-2d-matrix-ii) |
@@ -160,6 +161,7 @@ Geek For Geeks Solutions
 | [0202-happy-number](https://github.com/thisarsh/GFG_Soln/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/thisarsh/GFG_Soln/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/thisarsh/GFG_Soln/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/thisarsh/GFG_Soln/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
@@ -345,6 +347,7 @@ Geek For Geeks Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/thisarsh/GFG_Soln/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/thisarsh/GFG_Soln/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/thisarsh/GFG_Soln/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thisarsh/GFG_Soln/tree/master/1460-number-of-substrings-containing-all-three-characters) |
