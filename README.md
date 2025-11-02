@@ -76,6 +76,7 @@ Geek For Geeks Solutions
 | [1646-kth-missing-positive-number](https://github.com/thisarsh/GFG_Soln/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/thisarsh/GFG_Soln/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/thisarsh/GFG_Soln/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/thisarsh/GFG_Soln/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thisarsh/GFG_Soln/tree/master/2137-final-value-of-variable-after-performing-operations) |
