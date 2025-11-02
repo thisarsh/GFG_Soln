@@ -63,6 +63,7 @@ Geek For Geeks Solutions
 | [0907-koko-eating-bananas](https://github.com/thisarsh/GFG_Soln/tree/master/0907-koko-eating-bananas) |
 | [1018-largest-perimeter-triangle](https://github.com/thisarsh/GFG_Soln/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/thisarsh/GFG_Soln/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/thisarsh/GFG_Soln/tree/master/1185-find-in-mountain-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/thisarsh/GFG_Soln/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -305,6 +306,7 @@ Geek For Geeks Solutions
 | [0882-peak-index-in-a-mountain-array](https://github.com/thisarsh/GFG_Soln/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/thisarsh/GFG_Soln/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/thisarsh/GFG_Soln/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/thisarsh/GFG_Soln/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/thisarsh/GFG_Soln/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/thisarsh/GFG_Soln/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/thisarsh/GFG_Soln/tree/master/1646-kth-missing-positive-number) |
@@ -454,4 +456,8 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/thisarsh/GFG_Soln/tree/master/2169-simple-bank-system) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/thisarsh/GFG_Soln/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
