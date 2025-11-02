@@ -59,6 +59,7 @@ Geek For Geeks Solutions
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thisarsh/GFG_Soln/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/thisarsh/GFG_Soln/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/thisarsh/GFG_Soln/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/thisarsh/GFG_Soln/tree/master/0907-koko-eating-bananas) |
 | [1018-largest-perimeter-triangle](https://github.com/thisarsh/GFG_Soln/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/thisarsh/GFG_Soln/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -301,6 +302,7 @@ Geek For Geeks Solutions
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thisarsh/GFG_Soln/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/thisarsh/GFG_Soln/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/thisarsh/GFG_Soln/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/thisarsh/GFG_Soln/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/thisarsh/GFG_Soln/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/thisarsh/GFG_Soln/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
