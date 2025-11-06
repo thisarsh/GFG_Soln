@@ -55,6 +55,7 @@ Geek For Geeks Solutions
 | [0525-contiguous-array](https://github.com/thisarsh/GFG_Soln/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thisarsh/GFG_Soln/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/thisarsh/GFG_Soln/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thisarsh/GFG_Soln/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -180,6 +181,7 @@ Geek For Geeks Solutions
 | [0387-first-unique-character-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/thisarsh/GFG_Soln/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thisarsh/GFG_Soln/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/thisarsh/GFG_Soln/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/thisarsh/GFG_Soln/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/thisarsh/GFG_Soln/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
