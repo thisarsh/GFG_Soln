@@ -11,8 +11,10 @@ public:
     bool isHappy(int n) {
         int neww=0;
         unordered_set <int> st;
-        while(1){  neww=sumofsq(n);
-            if(n==1)return 1;
+        while(1){ 
+         
+             neww=sumofsq(n);
+               if(n==1|| neww==1)return 1;
            
             else {       
 
