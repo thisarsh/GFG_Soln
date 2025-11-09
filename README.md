@@ -117,6 +117,7 @@ Geek For Geeks Solutions
 | [1642-water-bottles](https://github.com/thisarsh/GFG_Soln/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/thisarsh/GFG_Soln/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/thisarsh/GFG_Soln/tree/master/2032-largest-odd-number-in-string) |
+| [2288-count-operations-to-obtain-zero](https://github.com/thisarsh/GFG_Soln/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/thisarsh/GFG_Soln/tree/master/3336-water-bottles-ii) |
@@ -404,6 +405,7 @@ Geek For Geeks Solutions
 | [2169-simple-bank-system](https://github.com/thisarsh/GFG_Soln/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/thisarsh/GFG_Soln/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/thisarsh/GFG_Soln/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2288-count-operations-to-obtain-zero](https://github.com/thisarsh/GFG_Soln/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/thisarsh/GFG_Soln/tree/master/3336-water-bottles-ii) |
 ## Trie
