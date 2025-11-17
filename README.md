@@ -72,6 +72,7 @@ Geek For Geeks Solutions
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thisarsh/GFG_Soln/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thisarsh/GFG_Soln/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/thisarsh/GFG_Soln/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/thisarsh/GFG_Soln/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/thisarsh/GFG_Soln/tree/master/1646-kth-missing-positive-number) |
