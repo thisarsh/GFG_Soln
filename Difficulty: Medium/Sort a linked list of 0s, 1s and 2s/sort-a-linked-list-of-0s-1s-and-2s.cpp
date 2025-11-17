@@ -14,32 +14,47 @@ class Solution {
   public:
     Node* segregate(Node* head) {
         // code here
-        Node *temp=head,*zero=head,*one=head,*two=head;
-        while(temp && zero){
-            if(temp->data==0){
-                swap(temp->data,zero->data);
-                zero=zero->next;
-            }
-            temp=temp->next;
-        }
-        one=temp=zero;
-            while(temp && one){
+        Node *temp=head;
+        Node *zero=new Node (0);
+        Node *one=new Node (0);
+        Node *two=new Node (0);
+        Node *oneh=one;
+        Node *zeroh=zero;
+        Node *twoh=two;
+    
+        
+        
+        
+        while(temp){
             if(temp->data==1){
-                swap(temp->data,one->data);
+                one->next=temp;
                 one=one->next;
+                
+                
             }
-            temp=temp->next;
-        }
-        two=temp=one;
-            while(temp && two){
-            if(temp->data==2){
-                swap(temp->data,two->data);
+            else if(temp->data==0){
+                zero->next=temp;
+                zero=zero->next;
+               
+            }
+            else{
+                two->next=temp;
                 two=two->next;
+                
             }
+            
             temp=temp->next;
         }
+        
+        two->next=NULL;
        
-       return head;
+        zero->next = (oneh->next) ? oneh->next : twoh->next;
+        one->next=twoh->next;
+       
+        return zeroh->next;
+        
+        
+   
         
     }
 };
