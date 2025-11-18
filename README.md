@@ -58,6 +58,7 @@ Geek For Geeks Solutions
 | [0575-distribute-candies](https://github.com/thisarsh/GFG_Soln/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/thisarsh/GFG_Soln/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thisarsh/GFG_Soln/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/thisarsh/GFG_Soln/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/thisarsh/GFG_Soln/tree/master/0882-peak-index-in-a-mountain-array) |
