@@ -88,6 +88,7 @@ Geek For Geeks Solutions
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisarsh/GFG_Soln/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/thisarsh/GFG_Soln/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/thisarsh/GFG_Soln/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2350-find-closest-number-to-zero](https://github.com/thisarsh/GFG_Soln/tree/master/2350-find-closest-number-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2737-row-with-maximum-ones](https://github.com/thisarsh/GFG_Soln/tree/master/2737-row-with-maximum-ones) |
@@ -244,6 +245,7 @@ Geek For Geeks Solutions
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thisarsh/GFG_Soln/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisarsh/GFG_Soln/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/thisarsh/GFG_Soln/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/thisarsh/GFG_Soln/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/thisarsh/GFG_Soln/tree/master/2427-first-letter-to-appear-twice) |
 | [2887-sort-vowels-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/3462-vowels-game-in-a-string) |
