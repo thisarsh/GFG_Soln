@@ -113,6 +113,7 @@ Geek For Geeks Solutions
 | [0189-rotate-array](https://github.com/thisarsh/GFG_Soln/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/thisarsh/GFG_Soln/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/thisarsh/GFG_Soln/tree/master/0326-power-of-three) |
 | [1018-largest-perimeter-triangle](https://github.com/thisarsh/GFG_Soln/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/thisarsh/GFG_Soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thisarsh/GFG_Soln/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -481,6 +482,7 @@ Geek For Geeks Solutions
 | [0002-add-two-numbers](https://github.com/thisarsh/GFG_Soln/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/thisarsh/GFG_Soln/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
