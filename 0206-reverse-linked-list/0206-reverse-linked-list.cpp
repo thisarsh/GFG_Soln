@@ -10,21 +10,21 @@
  */
 class Solution {
 public:
+    ListNode *rev(ListNode *temp,ListNode *back,ListNode *front){
+       if(!temp)return back;
+       front=temp->next;
+       temp->next=back;
+       back=temp;
+       temp=front;
+       return rev(temp,back,front);
+    }
+
     ListNode* reverseList(ListNode* head) {
-        ListNode *c=head;
-         ListNode *f=head;
-      ListNode *b=NULL;
+        ListNode *temp=head;
+        ListNode *back=NULL;
+        ListNode *front=NULL;
+        return rev(temp,back,front);
 
-
-        while(c){
-            f=c->next;
-            c->next=b;
-            b=c;
-            c=f;
-
-        }
-        return b;
-        
         
     }
 };
