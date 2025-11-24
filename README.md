@@ -26,6 +26,7 @@ Geek For Geeks Solutions
 | [0073-set-matrix-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/thisarsh/GFG_Soln/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/thisarsh/GFG_Soln/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/thisarsh/GFG_Soln/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0088-merge-sorted-array) |
@@ -344,6 +345,7 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thisarsh/GFG_Soln/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/thisarsh/GFG_Soln/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/thisarsh/GFG_Soln/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/thisarsh/GFG_Soln/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/thisarsh/GFG_Soln/tree/master/0191-number-of-1-bits) |
@@ -502,4 +504,8 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/thisarsh/GFG_Soln/tree/master/1185-find-in-mountain-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/thisarsh/GFG_Soln/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
