@@ -21,6 +21,7 @@ Geek For Geeks Solutions
 | [0048-rotate-image](https://github.com/thisarsh/GFG_Soln/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/thisarsh/GFG_Soln/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/thisarsh/GFG_Soln/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/thisarsh/GFG_Soln/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0073-set-matrix-zeroes) |
@@ -303,6 +304,7 @@ Geek For Geeks Solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thisarsh/GFG_Soln/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/thisarsh/GFG_Soln/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/thisarsh/GFG_Soln/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thisarsh/GFG_Soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -374,6 +376,7 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thisarsh/GFG_Soln/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/thisarsh/GFG_Soln/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
