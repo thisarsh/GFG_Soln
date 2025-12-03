@@ -224,6 +224,7 @@ Geek For Geeks Solutions
 | [0005-longest-palindromic-substring](https://github.com/thisarsh/GFG_Soln/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/thisarsh/GFG_Soln/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/thisarsh/GFG_Soln/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/thisarsh/GFG_Soln/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/thisarsh/GFG_Soln/tree/master/0058-length-of-last-word) |
@@ -303,6 +304,7 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thisarsh/GFG_Soln/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/thisarsh/GFG_Soln/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/thisarsh/GFG_Soln/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/thisarsh/GFG_Soln/tree/master/0118-pascals-triangle) |
@@ -514,5 +516,6 @@ Geek For Geeks Solutions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/thisarsh/GFG_Soln/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/thisarsh/GFG_Soln/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
