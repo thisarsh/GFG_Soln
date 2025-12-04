@@ -46,6 +46,7 @@ Geek For Geeks Solutions
 | [0169-majority-element](https://github.com/thisarsh/GFG_Soln/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/thisarsh/GFG_Soln/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/thisarsh/GFG_Soln/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/thisarsh/GFG_Soln/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0229-majority-element-ii) |
@@ -528,4 +529,5 @@ Geek For Geeks Solutions
 | [0040-combination-sum-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/thisarsh/GFG_Soln/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/thisarsh/GFG_Soln/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
