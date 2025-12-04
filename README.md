@@ -18,6 +18,7 @@ Geek For Geeks Solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thisarsh/GFG_Soln/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/thisarsh/GFG_Soln/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/thisarsh/GFG_Soln/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/0049-group-anagrams) |
@@ -522,5 +523,6 @@ Geek For Geeks Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thisarsh/GFG_Soln/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/thisarsh/GFG_Soln/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/thisarsh/GFG_Soln/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
