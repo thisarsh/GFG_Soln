@@ -104,6 +104,7 @@ Geek For Geeks Solutions
 | [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thisarsh/GFG_Soln/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/thisarsh/GFG_Soln/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/thisarsh/GFG_Soln/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thisarsh/GFG_Soln/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/thisarsh/GFG_Soln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thisarsh/GFG_Soln/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -135,6 +136,7 @@ Geek For Geeks Solutions
 | [2324-find-triangular-sum-of-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/thisarsh/GFG_Soln/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/thisarsh/GFG_Soln/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thisarsh/GFG_Soln/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thisarsh/GFG_Soln/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -381,6 +383,7 @@ Geek For Geeks Solutions
 | [0560-subarray-sum-equals-k](https://github.com/thisarsh/GFG_Soln/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/thisarsh/GFG_Soln/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Greedy
 |  |
 | ------- |
