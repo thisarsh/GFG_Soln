@@ -69,6 +69,7 @@ Geek For Geeks Solutions
 | [0717-1-bit-and-2-bit-characters](https://github.com/thisarsh/GFG_Soln/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thisarsh/GFG_Soln/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/thisarsh/GFG_Soln/tree/master/0792-binary-search) |
+| [0860-lemonade-change](https://github.com/thisarsh/GFG_Soln/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/thisarsh/GFG_Soln/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/thisarsh/GFG_Soln/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/thisarsh/GFG_Soln/tree/master/0907-koko-eating-bananas) |
@@ -396,6 +397,7 @@ Geek For Geeks Solutions
 | [0410-split-array-largest-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/thisarsh/GFG_Soln/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
+| [0860-lemonade-change](https://github.com/thisarsh/GFG_Soln/tree/master/0860-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/thisarsh/GFG_Soln/tree/master/1018-largest-perimeter-triangle) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thisarsh/GFG_Soln/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/thisarsh/GFG_Soln/tree/master/2032-largest-odd-number-in-string) |
