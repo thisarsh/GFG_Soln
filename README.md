@@ -129,6 +129,7 @@ Geek For Geeks Solutions
 | [1018-largest-perimeter-triangle](https://github.com/thisarsh/GFG_Soln/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/thisarsh/GFG_Soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thisarsh/GFG_Soln/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/thisarsh/GFG_Soln/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/thisarsh/GFG_Soln/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/thisarsh/GFG_Soln/tree/master/1642-water-bottles) |
