@@ -30,6 +30,7 @@ Geek For Geeks Solutions
 | [0074-search-a-2d-matrix](https://github.com/thisarsh/GFG_Soln/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/thisarsh/GFG_Soln/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/thisarsh/GFG_Soln/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/thisarsh/GFG_Soln/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0088-merge-sorted-array) |
@@ -243,6 +244,7 @@ Geek For Geeks Solutions
 | [0049-group-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/thisarsh/GFG_Soln/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/thisarsh/GFG_Soln/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/thisarsh/GFG_Soln/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/thisarsh/GFG_Soln/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/thisarsh/GFG_Soln/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0151-reverse-words-in-a-string) |
@@ -496,6 +498,7 @@ Geek For Geeks Solutions
 | [0048-rotate-image](https://github.com/thisarsh/GFG_Soln/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/thisarsh/GFG_Soln/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/thisarsh/GFG_Soln/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/thisarsh/GFG_Soln/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0240-search-a-2d-matrix-ii) |
 | [2737-row-with-maximum-ones](https://github.com/thisarsh/GFG_Soln/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
@@ -547,7 +550,12 @@ Geek For Geeks Solutions
 | [0039-combination-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/thisarsh/GFG_Soln/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/thisarsh/GFG_Soln/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/thisarsh/GFG_Soln/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/thisarsh/GFG_Soln/tree/master/0216-combination-sum-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/thisarsh/GFG_Soln/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
