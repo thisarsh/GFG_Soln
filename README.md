@@ -62,6 +62,7 @@ Geek For Geeks Solutions
 | [0413-arithmetic-slices](https://github.com/thisarsh/GFG_Soln/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/thisarsh/GFG_Soln/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/thisarsh/GFG_Soln/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/thisarsh/GFG_Soln/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/thisarsh/GFG_Soln/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thisarsh/GFG_Soln/tree/master/0560-subarray-sum-equals-k) |
@@ -214,6 +215,7 @@ Geek For Geeks Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/thisarsh/GFG_Soln/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/thisarsh/GFG_Soln/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/thisarsh/GFG_Soln/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thisarsh/GFG_Soln/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/thisarsh/GFG_Soln/tree/master/0575-distribute-candies) |
@@ -536,6 +538,7 @@ Geek For Geeks Solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/thisarsh/GFG_Soln/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/thisarsh/GFG_Soln/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/thisarsh/GFG_Soln/tree/master/1078-remove-outermost-parentheses) |
 ## Design
 |  |
@@ -561,4 +564,8 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0079-word-search](https://github.com/thisarsh/GFG_Soln/tree/master/0079-word-search) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/thisarsh/GFG_Soln/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
