@@ -95,6 +95,7 @@ Geek For Geeks Solutions
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thisarsh/GFG_Soln/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/thisarsh/GFG_Soln/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/thisarsh/GFG_Soln/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thisarsh/GFG_Soln/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/thisarsh/GFG_Soln/tree/master/2169-simple-bank-system) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisarsh/GFG_Soln/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -137,6 +138,7 @@ Geek For Geeks Solutions
 | [1642-water-bottles](https://github.com/thisarsh/GFG_Soln/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/thisarsh/GFG_Soln/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/thisarsh/GFG_Soln/tree/master/2032-largest-odd-number-in-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/thisarsh/GFG_Soln/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2288-count-operations-to-obtain-zero](https://github.com/thisarsh/GFG_Soln/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
@@ -336,6 +338,7 @@ Geek For Geeks Solutions
 | [0413-arithmetic-slices](https://github.com/thisarsh/GFG_Soln/tree/master/0413-arithmetic-slices) |
 | [0647-palindromic-substrings](https://github.com/thisarsh/GFG_Soln/tree/master/0647-palindromic-substrings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thisarsh/GFG_Soln/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/thisarsh/GFG_Soln/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Binary Search
 |  |
 | ------- |
