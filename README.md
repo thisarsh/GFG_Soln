@@ -77,6 +77,7 @@ Geek For Geeks Solutions
 | [0875-koko-eating-bananas](https://github.com/thisarsh/GFG_Soln/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/thisarsh/GFG_Soln/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/thisarsh/GFG_Soln/tree/master/0907-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/thisarsh/GFG_Soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/thisarsh/GFG_Soln/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/thisarsh/GFG_Soln/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -223,6 +224,7 @@ Geek For Geeks Solutions
 | [0560-subarray-sum-equals-k](https://github.com/thisarsh/GFG_Soln/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/thisarsh/GFG_Soln/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/thisarsh/GFG_Soln/tree/master/0782-jewels-and-stones) |
+| [0930-binary-subarrays-with-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0930-binary-subarrays-with-sum) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/thisarsh/GFG_Soln/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
@@ -404,6 +406,7 @@ Geek For Geeks Solutions
 | [0525-contiguous-array](https://github.com/thisarsh/GFG_Soln/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thisarsh/GFG_Soln/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/thisarsh/GFG_Soln/tree/master/1004-max-consecutive-ones-iii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/thisarsh/GFG_Soln/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -438,6 +441,7 @@ Geek For Geeks Solutions
 | [0219-contains-duplicate-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/thisarsh/GFG_Soln/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/thisarsh/GFG_Soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thisarsh/GFG_Soln/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
