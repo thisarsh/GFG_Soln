@@ -20,6 +20,7 @@ Geek For Geeks Solutions
 | [0039-combination-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/thisarsh/GFG_Soln/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/thisarsh/GFG_Soln/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/thisarsh/GFG_Soln/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/thisarsh/GFG_Soln/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/0049-group-anagrams) |
@@ -169,6 +170,7 @@ Geek For Geeks Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/thisarsh/GFG_Soln/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/thisarsh/GFG_Soln/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/thisarsh/GFG_Soln/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0088-merge-sorted-array) |
@@ -340,6 +342,7 @@ Geek For Geeks Solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thisarsh/GFG_Soln/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/thisarsh/GFG_Soln/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/thisarsh/GFG_Soln/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/thisarsh/GFG_Soln/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/thisarsh/GFG_Soln/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/thisarsh/GFG_Soln/tree/master/0118-pascals-triangle) |
@@ -556,6 +559,7 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thisarsh/GFG_Soln/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/thisarsh/GFG_Soln/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thisarsh/GFG_Soln/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/thisarsh/GFG_Soln/tree/master/0496-next-greater-element-i) |
@@ -588,5 +592,6 @@ Geek For Geeks Solutions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/thisarsh/GFG_Soln/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/thisarsh/GFG_Soln/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
