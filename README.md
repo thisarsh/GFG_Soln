@@ -139,6 +139,7 @@ Geek For Geeks Solutions
 | [0202-happy-number](https://github.com/thisarsh/GFG_Soln/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/thisarsh/GFG_Soln/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/thisarsh/GFG_Soln/tree/master/0326-power-of-three) |
+| [0633-sum-of-square-numbers](https://github.com/thisarsh/GFG_Soln/tree/master/0633-sum-of-square-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/thisarsh/GFG_Soln/tree/master/1018-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/thisarsh/GFG_Soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/thisarsh/GFG_Soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -191,6 +192,7 @@ Geek For Geeks Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/thisarsh/GFG_Soln/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/thisarsh/GFG_Soln/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/thisarsh/GFG_Soln/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0977-squares-of-a-sorted-array) |
@@ -378,6 +380,7 @@ Geek For Geeks Solutions
 | [0410-split-array-largest-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thisarsh/GFG_Soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/thisarsh/GFG_Soln/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/thisarsh/GFG_Soln/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/thisarsh/GFG_Soln/tree/master/0792-binary-search) |
