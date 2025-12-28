@@ -609,6 +609,7 @@ Geek For Geeks Solutions
 | ------- |
 | [0079-word-search](https://github.com/thisarsh/GFG_Soln/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -618,12 +619,15 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
