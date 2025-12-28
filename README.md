@@ -608,9 +608,22 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [0079-word-search](https://github.com/thisarsh/GFG_Soln/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0100-same-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thisarsh/GFG_Soln/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/thisarsh/GFG_Soln/tree/master/0496-next-greater-element-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
