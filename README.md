@@ -88,6 +88,7 @@ Geek For Geeks Solutions
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/thisarsh/GFG_Soln/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/thisarsh/GFG_Soln/tree/master/1185-find-in-mountain-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/thisarsh/GFG_Soln/tree/master/1248-count-number-of-nice-subarrays) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thisarsh/GFG_Soln/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/thisarsh/GFG_Soln/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -397,6 +398,7 @@ Geek For Geeks Solutions
 | [1004-max-consecutive-ones-iii](https://github.com/thisarsh/GFG_Soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/thisarsh/GFG_Soln/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/thisarsh/GFG_Soln/tree/master/1185-find-in-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thisarsh/GFG_Soln/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/thisarsh/GFG_Soln/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/thisarsh/GFG_Soln/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/thisarsh/GFG_Soln/tree/master/1646-kth-missing-positive-number) |
@@ -543,6 +545,7 @@ Geek For Geeks Solutions
 | [0074-search-a-2d-matrix](https://github.com/thisarsh/GFG_Soln/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/thisarsh/GFG_Soln/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thisarsh/GFG_Soln/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/thisarsh/GFG_Soln/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/thisarsh/GFG_Soln/tree/master/3227-find-missing-and-repeated-values) |
 ## Combinatorics
