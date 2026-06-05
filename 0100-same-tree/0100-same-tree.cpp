@@ -10,17 +10,17 @@
  * };
  */
 class Solution {
-    bool  rec(TreeNode *p,TreeNode *q){
-        if(p==NULL && q==NULL) return 1;
-        if(p==NULL  || q==NULL) return 0;
+public:
+    bool dfs(TreeNode *p, TreeNode *q){
+        if(!p && !q) return 1;
+        if((!p ||!q)) return 0;
         if(p->val!=q->val) return 0;
-         return rec( p->left,q->left) && rec(p->right , q->right); 
-            
-        
+        if(dfs(p->left,q->left) && dfs(p->right, q->right) )return 1;
+        return 0;
 
     }
-public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        return rec(p,q);
+        return dfs(p,q);
+        
     }
 };
