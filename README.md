@@ -119,6 +119,7 @@ Geek For Geeks Solutions
 | [2341-count-prefixes-of-a-given-string](https://github.com/thisarsh/GFG_Soln/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2350-find-closest-number-to-zero](https://github.com/thisarsh/GFG_Soln/tree/master/2350-find-closest-number-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2574-left-and-right-sum-differences](https://github.com/thisarsh/GFG_Soln/tree/master/2574-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/thisarsh/GFG_Soln/tree/master/2737-row-with-maximum-ones) |
 | [3074-apple-redistribution-into-boxes](https://github.com/thisarsh/GFG_Soln/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/thisarsh/GFG_Soln/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -450,6 +451,7 @@ Geek For Geeks Solutions
 | [1004-max-consecutive-ones-iii](https://github.com/thisarsh/GFG_Soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/thisarsh/GFG_Soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/thisarsh/GFG_Soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2574-left-and-right-sum-differences](https://github.com/thisarsh/GFG_Soln/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/thisarsh/GFG_Soln/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Greedy
 |  |
