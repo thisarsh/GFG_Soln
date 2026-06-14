@@ -214,6 +214,7 @@ Geek For Geeks Solutions
 | [1798-max-number-of-k-sum-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/thisarsh/GFG_Soln/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/thisarsh/GFG_Soln/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/thisarsh/GFG_Soln/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/thisarsh/GFG_Soln/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -585,6 +586,7 @@ Geek For Geeks Solutions
 | [0237-delete-node-in-a-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/0908-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/thisarsh/GFG_Soln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -607,6 +609,7 @@ Geek For Geeks Solutions
 | [0234-palindrome-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/thisarsh/GFG_Soln/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/thisarsh/GFG_Soln/tree/master/1078-remove-outermost-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/thisarsh/GFG_Soln/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
