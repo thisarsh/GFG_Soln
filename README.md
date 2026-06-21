@@ -649,6 +649,7 @@ Geek For Geeks Solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/thisarsh/GFG_Soln/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/thisarsh/GFG_Soln/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/thisarsh/GFG_Soln/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0543-diameter-of-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -667,6 +668,7 @@ Geek For Geeks Solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/thisarsh/GFG_Soln/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/thisarsh/GFG_Soln/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/thisarsh/GFG_Soln/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -688,6 +690,7 @@ Geek For Geeks Solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/thisarsh/GFG_Soln/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/thisarsh/GFG_Soln/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/thisarsh/GFG_Soln/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/thisarsh/GFG_Soln/tree/master/0543-diameter-of-binary-tree) |
 ## Union-Find
 |  |
