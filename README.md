@@ -256,6 +256,7 @@ Geek For Geeks Solutions
 | [0782-jewels-and-stones](https://github.com/thisarsh/GFG_Soln/tree/master/0782-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/thisarsh/GFG_Soln/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/thisarsh/GFG_Soln/tree/master/0930-binary-subarrays-with-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/thisarsh/GFG_Soln/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/thisarsh/GFG_Soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/thisarsh/GFG_Soln/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -302,6 +303,7 @@ Geek For Geeks Solutions
 | [0782-jewels-and-stones](https://github.com/thisarsh/GFG_Soln/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/thisarsh/GFG_Soln/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/thisarsh/GFG_Soln/tree/master/1078-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/thisarsh/GFG_Soln/tree/master/1189-maximum-number-of-balloons) |
 | [1205-defanging-an-ip-address](https://github.com/thisarsh/GFG_Soln/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/thisarsh/GFG_Soln/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/thisarsh/GFG_Soln/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -329,6 +331,7 @@ Geek For Geeks Solutions
 | [0347-top-k-frequent-elements](https://github.com/thisarsh/GFG_Soln/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/thisarsh/GFG_Soln/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/thisarsh/GFG_Soln/tree/master/1189-maximum-number-of-balloons) |
 | [1364-tuple-with-same-product](https://github.com/thisarsh/GFG_Soln/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/thisarsh/GFG_Soln/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/thisarsh/GFG_Soln/tree/master/1635-number-of-good-pairs) |
