@@ -18,22 +18,27 @@ public:
     //     dfs(ans,node->right);
     // }
     vector<int> inorderTraversal(TreeNode* root) {
-        vector <int> ans;
-        stack <TreeNode *> st;
-        TreeNode * curr=root;
-        while(curr || !st.empty()){
-            while(curr) {
-                st.push(curr);
+     vector <int> ans;
+     TreeNode * curr= root;
+     while(curr){
+        if(!curr->left){
+            ans.push_back(curr->val);
+            curr=curr->right;
+        }
+        else{
+            TreeNode * p=curr->left;
+            while(p->right && p->right!=curr) p=p->right;
+            if(!p->right) {
+                p->right=curr;
                 curr=curr->left;
             }
-            curr=st.top();
-            st.pop();
-            ans.push_back(curr->val);
-            curr=(curr->right);
-
-
+            else{
+                p->right=NULL;
+                ans.push_back(curr->val);
+                curr=curr->right;
+            }
         }
-        return ans;
-        
+     }   
+     return ans;
     }
 };
