@@ -19,7 +19,7 @@ public:
    bool c(TreeNode *node){
     if(!node) return 1;
      if ( abs (dfs (node->left) - dfs(node->right) ) >=2) return 0;
-     if(node->left && node->right ) return 1;
+     if(c(node->left) && c(node->right) ) return 1;
      
      return 0;
    }
