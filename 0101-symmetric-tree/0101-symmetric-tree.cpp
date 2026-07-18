@@ -11,20 +11,20 @@
  */
 class Solution {
 public:
-    bool dfs(TreeNode *l, TreeNode*r){
-        if(!l && !r) return 1;
-        if(!l || !r)return 0; 
-        if(l->val!=r->val)return 0;
-       if( dfs(l->right,r->left) && dfs(r->right,l->left)) return 1;
-       return 0;
-
-
+    bool h(TreeNode *n1 , TreeNode *n2){
+       if(!n1 && !n2)return 1;
+       if(!n1 || !n2)return 0;
+       if(n1->val!=n2->val) return 0;
+      
+       return h(n1->left,n2->right)
+        && h(n1->right,n2->left);
+        // return 1;
+       
+      
     }
-    bool isSymmetric(TreeNode* root) {
-        if(!root || !root->left && ! root->right)return 1;
-        if(!root->left || ! root->right)return 0;
-        return dfs(root->left, root->right);
 
-        
+    bool isSymmetric(TreeNode* root) {
+        return h(root->left,root->right);
+     
     }
 };
