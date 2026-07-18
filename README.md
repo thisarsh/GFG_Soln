@@ -110,6 +110,7 @@ Geek For Geeks Solutions
 | [1833-maximum-ice-cream-bars](https://github.com/thisarsh/GFG_Soln/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thisarsh/GFG_Soln/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thisarsh/GFG_Soln/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/thisarsh/GFG_Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/thisarsh/GFG_Soln/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/thisarsh/GFG_Soln/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/thisarsh/GFG_Soln/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -163,6 +164,7 @@ Geek For Geeks Solutions
 | [1636-number-of-substrings-with-only-1s](https://github.com/thisarsh/GFG_Soln/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/thisarsh/GFG_Soln/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/thisarsh/GFG_Soln/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/thisarsh/GFG_Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/thisarsh/GFG_Soln/tree/master/2032-largest-odd-number-in-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/thisarsh/GFG_Soln/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2288-count-operations-to-obtain-zero](https://github.com/thisarsh/GFG_Soln/tree/master/2288-count-operations-to-obtain-zero) |
@@ -728,4 +730,8 @@ Geek For Geeks Solutions
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/thisarsh/GFG_Soln/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/thisarsh/GFG_Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
