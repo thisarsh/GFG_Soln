@@ -210,6 +210,7 @@ Geek For Geeks Solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/thisarsh/GFG_Soln/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thisarsh/GFG_Soln/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/thisarsh/GFG_Soln/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/thisarsh/GFG_Soln/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/thisarsh/GFG_Soln/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/thisarsh/GFG_Soln/tree/master/0633-sum-of-square-numbers) |
@@ -303,6 +304,7 @@ Geek For Geeks Solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/thisarsh/GFG_Soln/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thisarsh/GFG_Soln/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/thisarsh/GFG_Soln/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/thisarsh/GFG_Soln/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/thisarsh/GFG_Soln/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/thisarsh/GFG_Soln/tree/master/0812-rotate-string) |
